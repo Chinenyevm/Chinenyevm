@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chinenyevm
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently working with programming languages 
-- 💞️ I’m looking to collaborate on software development projects
+- 👀 I’m interested in cool projects
+- 🌱 I’m currently working with Java, Python, CSS, HTML, JavaScript & Node.js
+- 💞️ I’m looking to collaborate on cool projects
 - 📫 You can reach me via linkedin , Chinenye Vanessa Mekowulu 
 
 <!---
